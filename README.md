@@ -1,4 +1,4 @@
-# "The Last Supper": Trying to predict the viability of San Francisco restaurants with Machine Learning and data analysis
+# "[The Last Supper](https://sf-rvm.herokuapp.com)": Trying to predict the viability of San Francisco restaurants with Machine Learning and data analysis
 
 ## 1. Background
 ### 1.1 Problem or Opportunity Statement
